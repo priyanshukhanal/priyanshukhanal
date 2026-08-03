@@ -84,13 +84,6 @@ Vehicle rental platform built for Nepal that allows users to browse, book and ma
 
 **Role:** UI/UX Designer
 
----
-
-### 🌾 KrishiSathi
-
-Smart agriculture platform where farmers can upload crop images and receive expert recommendations.
-
----
 
 ### 📊 Data Analytics Projects
 
@@ -100,17 +93,6 @@ Smart agriculture platform where farmers can upload crop images and receive expe
 - Market Basket Analysis
 - Data Cleaning & EDA
 
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect with Me
 
@@ -118,10 +100,10 @@ LinkedIn:
 https://www.linkedin.com/in/priyanshu-khanal/
 
 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/priyanshukhanal
 
 Email:
-your-email@example.com
+priyanshukhanal25@gmail.com
 
 ---
 
