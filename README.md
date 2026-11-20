@@ -82,7 +82,7 @@ A web-based application for managing student records with CRUD operations.
 
 Vehicle rental platform built for Nepal that allows users to browse, book and manage rentals.
 
-**Role:** UI/UX Designer
+**Role:** UI/UX Designer, frontend 
 
 
 ### 📊 Data Analytics Projects
